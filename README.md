@@ -37,7 +37,7 @@ I am a **Computer Science and Engineering** graduate with a keen interest in **A
 - **ML/DL**:
   ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![SCIKIT-LEARN](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-- **CLOUD COMPUTING**:
+- **Cloud Computing**:
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
   
 
