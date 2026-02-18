@@ -1,5 +1,5 @@
 # Hi, I'm JANARTHANAN S👋  
-**CSE Learner| Tech Enthusiast**
+**CSE Learner | Tech Enthusiast**
 
 ---
 
