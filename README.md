@@ -1,17 +1,18 @@
 # Hi, I'm JANARTHANAN S👋  
-**CSE Learner | Digital Innovator | Tech Enthusiast**
+**CSE Learner| Tech Enthusiast**
 
 ---
 
 ### 🚀 About Me
-I am a **Computer Science and Engineering** graduate with a keen interest in **AI, and digital marketing**. I enjoy exploring new technologies and applying my skills to practical projects. From working on AI-driven solutions to understanding market trends, I strive to blend technology and strategy to create meaningful outcomes. Always eager to learn and adapt, I look forward to gaining more hands-on experience and contributing to innovative projects.
+I am a Computer Science and Engineering graduate passionate about "Java development" and "SQL database management." I enjoy building scalable backend applications and creating efficient data-driven solutions that solve real-world problems.
+
+With a strong foundation in object-oriented programming and structured query design, I focus on writing "clean, optimized, and maintainable code." I continuously work on improving my problem-solving skills and strengthening my understanding of software architecture and database optimization.
 
 
 ---
 
 ### 🔭 Exploring & Growing In
 - Strengthening my problem-solving skills by learning **Data Structures and Algorithms** (DSA).
-- Advancing my knowledge in **Search Engine Optimization (SEO) and digital marketing strategies**.
 - Exploring AI-driven automation to enhance business and real-world applications.
 - Improving my proficiency in **cloud computing**.
 
